@@ -1,9 +1,0 @@
- CATEGORY_CHOICES = [
-        ('cultural', 'Cultural'),
-        ('arts', 'Arts'),
-        ('exibition', "Exibition"),
-        ('technology', 'Technology'),
-        ('conference', 'Conference'),
-        ('sports', 'Sports'),
-        ('food', 'Food'),
-    ]
